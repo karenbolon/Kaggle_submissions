@@ -1,4 +1,4 @@
-**Space Titanic**
+**#Space Titanic#**
 
 Similar to the previous Kaggle dataset of the original Titanic, Kaggle has created a new futuristic Space Titanic.  The goal is to predict which passengers will be correctly transported to their respective destinations.  
 
@@ -7,7 +7,7 @@ I tried Random Forest Regression Model with cross validation, Support Vector Mod
 I obtained an accuracy score of 0.79307 on the test data.
 
 
-**Playground Series Season 3, Episode 1**
+**#Playground Series Season 3, Episode 1#**\n
 Tabular Regression with the California Housing Dataset
 
 I used Polynomial Regressor Modal for my first submission (accuracy score 0.72542) and a Linear Regression with Cross Validation.  The Linear Regression had an accuray score of 0.72542.
